@@ -1,0 +1,21 @@
+{
+  "name": "invoice-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@react-pdf/renderer": "^2.0.0-beta.6",
+    "formik": "^2.1.4",
+    "get-value": "^3.0.1",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "set-value": "^3.0.2",
+    "yup": "^0.29.1"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
+  }
+}
