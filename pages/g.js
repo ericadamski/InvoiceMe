@@ -67,10 +67,6 @@ export default function Generate() {
       phoneNumber: "+1 123 111 2344",
     },
     billTo: {
-    //   name: "Kevin Van Gundy",
-    //   companyName: "Vercel Inc.",
-    //   street: "340 S Lemon Ave #4133",
-    //   zip: "Walnut, CA 91789",
       name: "Jim Halpert",
       companyName: "Dunder Mifflin Inc.",
       street: "1725 Slough Avenue",
